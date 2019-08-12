@@ -1,0 +1,28 @@
+Apache PR to unlicensed:
+i=
+0  'https://github.com/21stdigital/Xcode-Templates'  OK
+1  'https://github.com/zats/AdjustFontSize-Xcode-Plugin'  OK
+5  'https://github.com/limejelly/Backlight-for-XCode'  OK
+15  'https://github.com/eerolanguage/eero-installer-for-alcatraz'  OK, merged
+19  'https://github.com/jessecurry/ghunit-xcode-templates'  OK
+
+GPL PR to unlicensed
+i=
+26  'https://github.com/quellish/NSAtomicStoreTemplate'  OK
+27  'https://github.com/eliperkins/ObjCClassCategoryTemplate' OK
+28  'https://github.com/omz/Dash-Plugin-for-Xcode'  OK
+29  'https://github.com/inquisitiveSoft/Open-with-Application'  OK. Note this is actually licensed repo. Better to send a general message from now on.
+30  'https://github.com/ryanmeisters/Xcode-Plugin-Open-Sublime-Text'  OK
+31  'https://github.com/tyeen/OpenQuicklyCtrlNP'  OK
+
+GPL PR to licensed
+i=
+3  'https://github.com/marksands/Aviator'   OK
+5  'https://github.com/neonichu/BBUFullIssueNavigator' OK
+6  'https://github.com/benoitsan/BBUncrustifyPlugin-Xcode' OK
+7  'https://github.com/neonichu/BBUToyUnboxing' OK
+8  'https://github.com/neonichu/BBUUtilitiesTuckAway'  OK
+9  'https://github.com/LogikBlitz/BTGisterPost_Xcode5'  OK
+'https://github.com/LogikBlitz/BTGisterPost_Xcode5'   OK
+
+
